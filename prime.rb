@@ -1,4 +1,4 @@
-Learn more or give us feedback
+
 require 'benchmark'
 require 'bigdecimal/math'
 
